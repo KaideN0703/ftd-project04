@@ -34,7 +34,7 @@ p{
 }
 .texts-box{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;  
     border-bottom: 1px solid hsl(214, 18%, 35%);
 }
@@ -46,7 +46,7 @@ p{
 }
 #text1{
     color: hsl(178, 100%, 50%);
-    padding-right: 100px;
+    /* padding-right: 100px; */
 }
 .text-box2{
     display: flex;
